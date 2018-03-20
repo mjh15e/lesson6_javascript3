@@ -13,8 +13,7 @@ Web Application Development
 (In this assignment I created a web page that uses javascript to modify a web page based on external events such as clicking. This was done by creating a photo carousel that displays a 3-5 pictures at a time.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mjh15e.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (In this lesson I learned how to modify a web page from the external event of the clicking of a user.)
